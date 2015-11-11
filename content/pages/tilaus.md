@@ -1,8 +1,8 @@
-Title: Tilaus
+Title: Tilaa hampunsiemeniä
 Illustration: seeds.jpg
 
 # Tilauslomake
-Erä 5 Kiloa 6 euroa kiloa.
-Verkkomaksu.
+Erä 7 Kiloa 8 euroa kiloa.
+Tilisiirto.
 
-Aution Tila, Y-Tunnus
+Aution Tila, Y-Tunnus 1162273-7

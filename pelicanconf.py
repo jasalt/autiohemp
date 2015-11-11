@@ -9,8 +9,8 @@ THEME = 'theme-nest'
 NEST_HEADER_IMAGES = 'images/background.jpg'
 
 NEST_INDEX_HEAD_TITLE = u'Homepage'
-NEST_INDEX_HEADER_TITLE = u'My Awesome Blog'
-NEST_INDEX_HEADER_SUBTITLE = u'Smashing The Stack For Fun And Profit'
+NEST_INDEX_HEADER_TITLE = u'Aution Hampputila'
+NEST_INDEX_HEADER_SUBTITLE = u'Kotimaista superfoodia suoraan tuottajalta'
 
 PATH = 'content'
 
@@ -26,14 +26,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('www.tommi.saltio.la', 'http://tommi.saltio.la'),
+         ('Saltiola Code', 'http://saltio.la'),
+         )
+
+NEST_HEADER_IMAGES = "background.jpg"
+NEST_HEADER_LOGO = "images/logo.png"
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('saltiola.tommi@gmail.com', 'mailto:saltiola.tommi@gmail.com'),)
 
 DEFAULT_PAGINATION = 5
 
