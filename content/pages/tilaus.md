@@ -5,4 +5,4 @@ Illustration: seeds.jpg
 Erä 7 Kiloa 8 euroa kiloa.
 Tilisiirto.
 
-Aution Tila, Y-Tunnus TODO
+Aution Tila, Y-Tunnus 1162273-7
