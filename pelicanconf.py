@@ -11,6 +11,8 @@ NEST_HEADER_IMAGES = 'images/background.jpg'
 NEST_INDEX_HEAD_TITLE = u'Homepage'
 NEST_INDEX_HEADER_TITLE = u'Aution Hampputila'
 NEST_INDEX_HEADER_SUBTITLE = u'Kotimaista superfoodia suoraan tuottajalta'
+NEST_SOCIAL_COLUMN_TITLE = u'Yhteystiedot'
+NEST_LINKS_COLUMN_TITLE = u'Linkit'
 
 PATH = 'content'
 
@@ -26,15 +28,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('www.tommi.saltio.la', 'http://tommi.saltio.la'),
-         ('Saltiola Code', 'http://saltio.la'),
+LINKS = (('Tommin kotisivu', 'http://tommi.saltio.la'),
+         ('Sivuston toteutti Saltiola Code', 'http://saltio.la'),
          )
 
 NEST_HEADER_IMAGES = "background.jpg"
-NEST_HEADER_LOGO = "images/logo.png"
+NEST_HEADER_LOGO = "/images/logo.png"
 
 # Social widget
-SOCIAL = (('saltiola.tommi@gmail.com', 'mailto:saltiola.tommi@gmail.com'),)
+SOCIAL = (('info@autiohemp.com', 'mailto:info@autiohemp.com'),
+          ('@autiohemp Twitterissä', 'https://twitter.com/autiohemp'))
 
 DEFAULT_PAGINATION = 5
 
