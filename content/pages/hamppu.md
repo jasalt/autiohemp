@@ -1,5 +1,6 @@
 Title: Hamppu?
 Illustration: plant.jpg
+Status: hidden
 
 # Mitä Hamppu on?
 Hampunsiemenet ja siemenistä puristettava öljy[muokkaa | muokkaa wikitekstiä]

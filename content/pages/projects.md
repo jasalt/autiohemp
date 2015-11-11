@@ -1,6 +1,6 @@
 Title: Aution Tila
 background: pelto.jpg
-status: hidden
+Status: hidden
 
 # Tarinaa
 
