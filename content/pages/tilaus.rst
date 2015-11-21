@@ -1,10 +1,9 @@
 Tilaa hampunsiemeniä
 ####################
 :illustration: seeds.jpg
-
-Myymme kesän 2015 siemensatoa. Siemenet toimitetaan postitse pakattuna kestävään ilmatiiviiseen muovisäkkiin.
-
-Täyttämällä tilauslomakkeen lähetämme maksutiedot sähköpostiinne.
+:subtitle: Kesän 2015 siemensatoa myynnissä rajoitettu erä!
+               
+Siemenet toimitetaan postitse pakattuna kestävään ilmatiiviiseen muovisäkkiin. Täyttämällä tilauslomakkeen lähetämme maksutiedot sähköpostiinne.
 
 .. raw:: html
 

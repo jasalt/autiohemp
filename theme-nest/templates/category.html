@@ -18,6 +18,7 @@
                   <div class="header-content">
                       <h1 class="header-title text-uppercase">{{ category|capitalize }}</h1>
                       <div class="header-underline"></div>
+                      <p class="header-subtitle header-subtitle-homepage">{{ GUIDES_CATEGORY_SUBTITLE }}</p>
                   </div>
               </div>
         </div>
@@ -27,12 +28,17 @@
 {% block content %}
     <div class="archive-container">
         <div class="container content archive">
-            <h2><a href="{{ SITEURL }}/{{ category.url }}">Ohjeet ja reseptit</a></h2>
-            <p>Tällä sivulla kootusti ohjeita ja reseptejä hampunsiementen ruokakäyttöön</p>
+            <h2><a href="{{ SITEURL }}/{{ category.url }}">Ohjeita ja reseptejä hampunsiementen ravintokäyttöön</a></h2>
+            <hr/>
             <dl class="dl-horizontal">
             	{% for article in articles %}
             	<dt>{{ article.locale_date}}</dt>
             	<dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+                
+                    <!-- <img class="crop-img img-responsive" src="{{siteurl}}/{{article.image}}" alt="" /> -->
+
+                <hr/>
+                
             	{% endfor %}
             </dl>
         </div>

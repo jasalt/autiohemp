@@ -36,6 +36,11 @@
 
 {% block content %}
     <div class="container content">
+        {% if article.image %}
+        <img class="" src="{{siteurl}}/{{article.image}}" alt="" />
+        {% endif %}
+         
+        
         {{ article.content }}
 
         {% if article.related_posts %}

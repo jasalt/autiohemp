@@ -38,6 +38,9 @@ LINKS = (('Tommin kotisivu', 'http://tommi.saltio.la'),
 NEST_HEADER_IMAGES = "background.jpg"
 NEST_HEADER_LOGO = "/images/logo.png"
 
+GUIDES_CATEGORY_SUBTITLE = "Miten käyttää hampunsiemeniä?"
+# TODO add different categories CATEGORY_SUBTITLES {''}
+
 # Social widget
 SOCIAL = (
     ('Puh. +358407479512', 'tel:+358407479512'),
