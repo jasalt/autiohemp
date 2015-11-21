@@ -37,13 +37,13 @@ body {
 /* 009bff*/
 /* CE2323 */
 a, a:visited { 
-    color: #eb2344; 
+    color: #549129; 
     text-decoration: none; 
     transition: all 0.2s ease-out;
 }
 a:hover, a:active{ 
     text-decoration:underline; 
-    color:#eb2344; 
+    color:#549129; 
 /*    opacity: 0.8; */
 }
 
@@ -136,7 +136,7 @@ h2:after {
     content: " ";
     margin-top: 10px;
     width: 40px;
-    border-bottom: 3px solid rgba(235,35,68,1);
+    border-bottom: 3px solid #549129;
     /*border-bottom: 3px solid rgba(0,0,0,0.2);*/
 }
 
@@ -152,7 +152,7 @@ h3:after {
     content: " ";
     margin-top: 10px;
     width: 40px;
-    border-bottom: 3px solid rgba(235,35,68,1);
+    border-bottom: 3px solid #549129;
 }
 
 h4 { 
@@ -235,7 +235,7 @@ h4:after {
 }
 .header-date {
     margin-top: 15px;
-    font-size: 12px;
+    font-size: 1.2em;
     color: #fff;
     opacity: 0.8;
 
@@ -249,7 +249,7 @@ h4:after {
     margin-top: 10px;
     margin-bottom: 15px;
     width: 50px;
-    border-bottom: 3px solid #eb2344;
+    border-bottom: 3px solid #549129;
 }
 .header-subtitle {
     font-size: 14px;
@@ -263,7 +263,7 @@ h4:after {
     font-style: italic;
 }
 .header-tags {
-    font-size: 11px;
+    font-size: 1em;
     color: #fff;
     font-style: italic;
 }
@@ -328,7 +328,7 @@ h4:after {
 .menu a{
   color: #fff;
   padding:0px;
-  background-color: #eb2344;
+  background-color: #549129;
   padding-left: 3px;
   padding-right: 3px;
   padding-top: 2px;

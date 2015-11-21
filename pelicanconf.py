@@ -14,6 +14,9 @@ NEST_INDEX_HEADER_SUBTITLE = u'Kotimaista superfoodia suoraan tuottajalta'
 NEST_SOCIAL_COLUMN_TITLE = u'Yhteystiedot'
 NEST_LINKS_COLUMN_TITLE = u'Linkit'
 
+DISPLAY_PAGES_ON_MENU = ('kaytto.md')
+DISPLAY_CATEGORIES_ON_MENU = True
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Helsinki'
@@ -36,8 +39,11 @@ NEST_HEADER_IMAGES = "background.jpg"
 NEST_HEADER_LOGO = "/images/logo.png"
 
 # Social widget
-SOCIAL = (('info@autiohemp.com', 'mailto:info@autiohemp.com'),
-          ('@autiohemp Twitterissä', 'https://twitter.com/autiohemp'))
+SOCIAL = (
+    ('Puh. +358407479512', 'tel:+358407479512'),
+    ('info@autiohemp.com', 'mailto:info@autiohemp.com'),
+    ('Aution Hampputila Facebookissa', 'https://www.facebook.com/Aution-Hampputila-880717715368664/'),
+    ('@autiohemp Twitterissä', 'https://twitter.com/autiohemp'))
 
 DEFAULT_PAGINATION = 5
 
