@@ -20,8 +20,8 @@ DISPLAY_CATEGORIES_ON_MENU = True
 PATH = 'content'
 
 TIMEZONE = 'Europe/Helsinki'
-
 DEFAULT_LANG = 'fi'
+LOCALE = 'fi_FI'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
