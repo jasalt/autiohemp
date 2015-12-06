@@ -1,19 +1,18 @@
-Title: Idätys
+Title: Siementen idätys
 Category: Ohjeet
 Date: 2015-11-21
-Illustration: seeds.jpg
+Illustration: idut.jpg
 Tags: siemen
 
-![Kuva idäteyistä siemenistä]({filename}/images/guides/sprout.jpg)
+# Miksi idättää?
 
 Siemenien itävyyttä ja säilyvyyttä parantavat antiravinteet, kuten fytiini- ja parkkihappo estävät ravintoaineiden imeytyvyyttä suojaten niitä ruoansulatukselta. Tämän takia siementen ravintosisällöstä sulaa idättämättömänä vain 20%. Idätettyinä siemenet sulavat lähes täysin, eli saat käyttöösi noin 5 kertaa enemmän ravintoaineita. Myös liottaminen ja paahtaminen vähentävät antiravinteita, mutta idättäessä ne poistuvat kokonaan.
 
-# Miten Idätän
+# Miten Idätän?
 Idätys on luonnon taianomainen tapa vapauttaa ravinteita siemenestä, joka idättämättömänä on suojautunut ruoansulatusta vastaan.
 
 Siemeniä voi idättää liottamalla niitä ensin yön yli vedessä, jonka jälkeen vesi otetaan pois. Tämän jälkeen siemen itää harsollisessa lasipurkissa kansi alaspäin tai idätysastiassa joita saa mm. luontaistuote kaupoista. Siemeniä on tällöin kasteltava noin 2 kertaa päivässä. Idättää voi eri tavoin tavoitteista riippuen, voi versottaa salaatiin tai vain avata siemenen, jolloin bioaktivointi on jo tapahtunut.
 
-TODO kuva idätysastiasta, muki-idätyksestä ja eri idätysasteen omaavista siemenistä.
 
 # Idätyksen hyödyt
 
