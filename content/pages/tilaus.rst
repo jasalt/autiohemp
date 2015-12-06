@@ -3,11 +3,13 @@ Tilaa hampunsiemeniä
 :illustration: siemenet.jpg
 :subtitle: Kesän 2015 siemensatoa myynnissä rajoitettu erä!
                
-Siemenet toimitetaan postitse pakattuna kestävään ilmatiiviiseen muovisäkkiin. Täyttämällä tilauslomakkeen lähetämme maksutiedot sähköpostiinne.
+
 
 .. raw:: html
-         
-    <div class="col-md-6 well well-xs" >
+
+    
+    <div class="col-md-6"><p>Täyttämällä alla olevan tilauslomakkeen lähetämme maksutiedot sähköpostiinne. Hintaan lisätään 10e toimituskustannus. Siemenet toimitetaan postitse pakattuna kestävään ilmatiiviiseen muovisäkkiin. Toimituskulut sisältyvät hintaan yli 50€ tilauksissa!</p></div>
+    <div class="col-md-6 well well-xs">
     <p><strong>Tämänhetkinen varastotilanne</strong></p>
     <div class="progress">
       <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="460" aria-valuemin="0" aria-valuemax="500" style="width: 80%;">
@@ -16,6 +18,7 @@ Siemenet toimitetaan postitse pakattuna kestävään ilmatiiviiseen muovisäkkii
     </div>
     <p class="text-right"><strong>540kg</strong> / 600kg</p>
     </div>
+    
     <br>
     
 
