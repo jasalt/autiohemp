@@ -181,14 +181,13 @@ h4:after {
   font-weight:600;
 }
 .header-nav .nav{
-  float:right;
+  margin-left: 5px;
 }
 .header-nav .nav a{
   font-weight:600;
   color:#fff;
   text-decoration:none;
   padding:8px;
-  margin-left:15px;
   text-transform: uppercase;
   transition: all 0.2s ease-out;
 }

@@ -11,8 +11,6 @@ NEST_HEADER_IMAGES = 'images/background.jpg'
 NEST_INDEX_HEAD_TITLE = u'Homepage'
 NEST_INDEX_HEADER_TITLE = u'Aution Hampputila'
 NEST_INDEX_HEADER_SUBTITLE = u'Kotimaista superfoodia suoraan tuottajalta'
-NEST_SOCIAL_COLUMN_TITLE = u'Yhteystiedot'
-NEST_LINKS_COLUMN_TITLE = u'Linkit'
 
 DISPLAY_PAGES_ON_MENU = ('kaytto.md')
 DISPLAY_CATEGORIES_ON_MENU = True
@@ -31,6 +29,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
+NEST_LINKS_COLUMN_TITLE = u'Linkit'
 LINKS = (('Tommin kotisivu', 'http://tommi.saltio.la'),
          ('Sivuston toteutti Saltiola Code', 'http://saltio.la'),
          )
@@ -42,6 +41,7 @@ GUIDES_CATEGORY_SUBTITLE = "Miten käyttää hampunsiemeniä?"
 # TODO add different categories CATEGORY_SUBTITLES {''}
 
 # Social widget
+NEST_SOCIAL_COLUMN_TITLE = u'Yhteystiedot'
 SOCIAL = (
     ('Puh. +358407479512', 'tel:+358407479512'),
     ('info@autiohemp.com', 'mailto:info@autiohemp.com'),
