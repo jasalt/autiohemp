@@ -192,6 +192,9 @@ h4:after {
   text-transform: uppercase;
   transition: all 0.2s ease-out;
   text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.99);
+  white-space: -moz-no-wrap; /* Firefox */
+  white-space: -o-no-wrap; /* Opera */
+  white-space: nowrap; /* Chrome */
 }
 .header-nav .nav a:hover{
   color:#fff;
@@ -233,7 +236,7 @@ h4:after {
 }
 
 .header-title {
-  font-size: 3em;
+  font-size: 2em;
   color: #fff;
   font-weight: 700;
 }
