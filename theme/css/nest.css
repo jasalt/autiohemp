@@ -239,10 +239,15 @@ h4:after {
   font-size: 2em;
   color: #fff;
   font-weight: 700;
+  
+}
+
+.dont-wrap {
   white-space: -moz-no-wrap; /* Firefox */
   white-space: -o-no-wrap; /* Opera */
-  white-space: nowrap; /* Chrome */
+  white-space: pre-wrap; /* Chrome */
 }
+
 .header-date {
   margin-top: 15px;
   font-size: 1.2em;
