@@ -2,23 +2,17 @@ Title: Hamppu?
 Illustration: plant.jpg
 
 # Mitä hamppu on?
-Hamppu on eräs merkittävimiä suomen oloissa kasvavia ravinto- ja kuitukasveja. Se on lisäksi maailman laajemmin käytettyjä päihdekasveja. Sivustolla esiteltävät tuotteet sen sijaan **eivät sisällä päihdyttäviä kannabinoideja**. 
+Hamppu on eräs merkittävimpiä öljy- ja kuitukasveja. Se on lisäksi maailman laajemmin käytettyjä päihdekasveja. Öljyhampun siemenestä valmistetut tuotteet sen sijaan **eivät sisällä päihdyttäviä kannabinoideja**.
+
+## Superruokaa
+Ei ole ihme, että hampunsiemenestä puhutaan superruokana, sillä se sisältää 33% omega 3 ja 6 rasvahappoja optimaalisessa 1:3 suhteessa ihmiskeholle, sekä 25% proteiinia ollen kasvikunnan ainoa tuote, joka sisältää kaikki kehon tarvitsemat aminohapot. Hampunsiemenessä on 4 kertaa enemmän omega 3:sta, ja 42 kertaa enemmän omega 6:sta kuin kirjolohifileessä. Lähde: fineli.fi Siemenet ovat myös gluteenittomia ja kolesterolittomia. Sisältää myös runsaasti mineraaleja, kuten magnesiumia, jonka puute on yleistä, sekä enemmän rautaa kuin nokkosessa.
+
+Hampunsiemen on valmis proteiininlähde sellaisenaan. Sitä ei tarvitse missään vaiheessa kuumentaa. Sen sijaan siemen kannattaa idättää, jolloin sen se imeytyy noin viisi kertaa tehokkaammin. Sitä voidaan myös paahtaa, jolloin sen pähkinäinen maku tulee vahvemmin esiin.
 
 
-## Hampunsiemenet ovat todellista superruokaa
-Hampunsiemenet sisältävät helposti imeytyvää proteiinia noin 25 prosenttia ja monityydyttymätöntä rasvaa noin 33 prosenttia. Siemenet ja niistä puristettu öljy ovat gluteenittomia ja kolesterolittomia. 
+![Hampunsiemenen makroravinnejakauma]({filename}/images/siemen-ravinne-jakauma.png)
 
-Hampunsiemenet ovat erinomainen proteiinin lähde sisältämällä kaikki 8 kehollemme välttämätöntä aminohappoa sekä 12 muuta aminohappoa. Hampunsiemen - toisin kuin esimerkiksi eläinperäiset proteiininlähteet - on raaka, kokonainen ja valmis proteiininlähde sellaisenaan. Sitä ei tarvitse missään vaiheessa kuumentaa, jotta esimerkiksi ravinnon sisältämät bakteerit saataisiin tuhottua.
+## Ekologisuus
+Hamppu ravintoarvoiltaan monipuolisempi ja ympäristökuormitukseltaan pienempi kuin soija. Ravintoarvojen lisäksi viljely ei vaadi ympäristöä kuormittavien, sekä kalliiden torjunta-aineiden käyttämistä. Lisäksi se on mainio maanparannuskasvi antaen hyvän esikasviarvon seuraavan vuoden sadolle. Sen paksu 15-30cm syvälle kurottuva juuristo kuohkeuttaa maata, jättää orgaanista ainesta pieneliiöille ja noistaa ravinteita syvältä muiden kasvien käyttöön. Seuraavan vuoden sadon voi odottaa olevan 10-30% suurempi öljy- tai kuituhampun kasvatuksen jälkeen.
 
-Aiemmin soijapavun luultiin olevan kasvikunnan eniten aminohappoja sisältävä jäsen, sillä se sisältää jopa 18 aminohappoa kahdestakymmenestä proteiinisynteesissä tarvittavasta aminohaposta. Kuitenkin uudempien tutkimusten mukaan hampunsiemenet sisältävät kaikki ihmisen terveydelle välttämättömät 20 aminohappoa. Tutustu hampunsiemenen ravintosisältöön paremmin [Wikipediasta](https://fi.wikipedia.org/wiki/Hamppu#Hampunsiemenet_ja_siemenist.C3.A4_puristettava_.C3.B6ljy).
-
-### TODO infografiaa ravinnosta
-
-## Viljelyn ekologisuus
-
-Ravintoarvojen lisäksi viljely ei vaadi ympäristöä kuormittavien, sekä kalliiden torjunta-aineiden käyttämistä.
-
-## Erinomainen kuitukasvi
-Hamppu on yksi vanhimmista viljelykasveista.[1] Hamppukuidun tunnetuin käyttökohde on hamppuköysi, mutta hampusta saatavista kuiduista voidaan valmistaa myös kestäviä kankaita, selluloosaa paperin raaka-aineeksi sekä teollista raaka-ainetta käytettäväksi eristeenä, levyinä tai huonekalujen materiaalina.[22]
-Kuituhamppupelto tuottaa 3–4 kertaa enemmän kuitua kuin metsä.lähde? Uusi sato valmistuu vuosittain, toisin kuin metsän, jonka kuitukäyttöön kasvaminen kestää noin 20 vuotta, mutta sijainnista ja puulajista riippuen vähemmän tai enemmän. Hampun kuitu on kuitenkin erilaista kuin puukuitu.
-Hamppukuitu on erittäin luja (120 kg/mm²) ja märkäkestävä. Se on myös muun muassa puuvillaa lämpimämpi ja pehmeämpi materiaali tekstiiliksi valmistettuna. Pehmeää kangasta varten hamppu korjataan 2–3 kuukauden iässä, lankakäyttöön 3–4 kuukauden jälkeen ja vaativaan kangas- ja köysikäyttöön noin puolivuotiaana.
+(Lähteet: [Fineli.fi Hampunsiemen](http://www.fineli.fi/food.php?foodid=33121&lang=fi), [Wikipedia Hamppu](https://fi.wikipedia.org/wiki/Hamppu), [Hamppumaa](http://www.hamppumaa.fi/))
