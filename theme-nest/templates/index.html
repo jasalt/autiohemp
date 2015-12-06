@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
-{% block title %}{{ NEST_INDEX_HEAD_TITLE }} {% if articles_page.has_previous() %}- page {{ articles_page.number }} {% endif %}- {{ super() }}{% endblock title %}
-{% block description %}{{ SITENAME }}, {{ SITESUBTITLE }}{% endblock description %}
+{% block title %}Aution Hampputila{% endblock title %}
+{% block description %}Aution Hampputile{% endblock description %}
 
 {% block headerstyle %}
 {% if NEST_HEADER_IMAGES %}
@@ -16,8 +16,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="header-content">
-                        <h1 class="header-title">{{ NEST_INDEX_HEADER_TITLE }}</h1>
-                        <div class="header-underline"></div>
+                        <img alt="Logo" src="/images/title-big.png"/>
                         {% if NEST_INDEX_HEADER_SUBTITLE %}
                         <p class="header-subtitle header-subtitle-homepage">{{ NEST_INDEX_HEADER_SUBTITLE }}</p>
                         {% endif %}

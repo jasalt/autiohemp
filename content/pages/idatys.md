@@ -1,4 +1,4 @@
-Title: Siementen idätys
+Title: Idätys
 Category: Ohjeet
 Date: 2015-11-21
 Illustration: idut.jpg

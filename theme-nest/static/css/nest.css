@@ -171,6 +171,7 @@ h4:after {
   border-bottom: 3px solid rgba(0,0,0,0.2);
 }
 
+
 /* Navbar */
 .header-nav{
   padding-top:20px;
@@ -190,6 +191,7 @@ h4:after {
   padding:8px;
   text-transform: uppercase;
   transition: all 0.2s ease-out;
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.99);
 }
 .header-nav .nav a:hover{
   color:#fff;
@@ -225,11 +227,13 @@ h4:after {
   padding-right: 40px;
 }
 .header-content {
+  margin-top: 15px;
   text-align: center;
-  padding: 25px 0 55px 0;
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.99);
 }
+
 .header-title {
-  font-size: 28px;
+  font-size: 3em;
   color: #fff;
   font-weight: 700;
 }
@@ -252,7 +256,7 @@ h4:after {
   border-bottom: 3px solid #549129;
 }
 .header-subtitle {
-  font-size: 1.4em;
+  font-size: 1.8em;
   line-height: 24px;
   color: #fff;
   font-weight: 500;

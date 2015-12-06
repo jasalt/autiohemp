@@ -108,7 +108,11 @@
         <div class="container">
             <div class="header-nav">
                 <div class="header-logo">
-                    <a class="pull-left" href="{{ SITEURL }}/"><img class="mr20" src="{{ SITEURL }}{{NEST_HEADER_LOGO or "/logo.svg" }}" alt="logo">{{ SITENAME }}</a>
+                    {% if page_name == "index" %}
+                    {% else %}
+                    <a class="pull-left" href="{{ SITEURL }}/"><img alt="Logo" class="pull-left" style="height: 90px;" src="/images/title-big.png"/></a>
+                    
+                    {% endif %}
                 </div>
                 <div class="nav pull-right">
                     {% for title, link in MENUITEMS %}
