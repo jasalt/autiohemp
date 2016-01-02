@@ -1,6 +1,5 @@
 Title: Hamppuruisleipä
 Date: 2015-11-21
-Illustration: seeds.jpg
 Tags: leivonta, leipä
 Image: images/guides/hemp-rye-bread.jpg
 

@@ -7,8 +7,8 @@
 {% block headerstyle %}
     {% if article.illustration %}
     <div class="header-container" style="background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('{{ SITEURL }}/images/{{ article.illustration }}'); background-position: center; ">
-    {% else %}
-    <div class="header-container gradient">
+        {% else %}
+        <div class="header-container" style="background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('{{ SITEURL }}/images/siemenet.jpg'); background-position: center; ">
     {% endif %}
 {% endblock headerstyle %}
 
