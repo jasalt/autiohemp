@@ -111,7 +111,7 @@
                     {% if page_name == "index" %}
                     {% else %}
                     <a class="pull-left" href="{{ SITEURL }}/"><img alt="Logo" class="pull-left" style="height: 75px;" src="/images/title-big.png"/></a>
-                    
+
                     {% endif %}
                 </div>
                 <div class="nav pull-right">
@@ -122,16 +122,14 @@
                     <a href="{{ SITEURL }}{{ link }}">{{ title }}</a>
                     {% endif %}
                     {% endfor %}
-                    
+
                     {% if DISPLAY_PAGES_ON_MENU %}
                     {% for pg in PAGES %}
                     <a {% if pg == page %} class="active"{% endif %} href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
                     {% endfor %}
                     {% endif %}
-                    
-                    {% for cat, null in categories %}
-                    <a {% if cat == category %} class="active"{% endif %} href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
-                    {% endfor %}
+
+                    <a {% if page_name == "category/ohjeet" %} class="active"{% endif %} href="{{ SITEURL }}/category/ohjeet.html">Ohjeet</a>
                 </div>
             </div>
         </div>
@@ -177,7 +175,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                         <p class="pull-right text-right">
-                            <small><em>© Aution Tila 2015</em></small><br/>
+                            <small><em>© Aution Tila 2016</em></small><br/>
                             <small>Y-Tunnus: 1162273-7</small><br/>
                             <small>{{ NEST_COPYRIGHT }}</small>
                             {% if NEST_FOOTER_HTML %}<small><em>{{ NEST_FOOTER_HTML }}</em></small>{% endif %}

@@ -13,7 +13,7 @@ NEST_INDEX_HEADER_TITLE = u'Aution Hampputila'
 NEST_INDEX_HEADER_SUBTITLE = u'Kotimaista superfoodia suoraan tuottajalta'
 
 DISPLAY_PAGES_ON_MENU = ('kaytto.md')
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 
 PATH = 'content'
 
@@ -53,7 +53,8 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 # Static files
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'extra/logo.svg', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico',
+                'extra/logo.svg', 'extra/CNAME', 'documents']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
