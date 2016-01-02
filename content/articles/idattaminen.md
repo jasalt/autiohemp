@@ -1,5 +1,4 @@
-Title: Idätys
-Category: Ohjeet
+Title: Idättäminen
 Date: 2015-11-21
 Illustration: idut.jpg
 Tags: siemen
