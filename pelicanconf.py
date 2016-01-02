@@ -30,9 +30,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 NEST_LINKS_COLUMN_TITLE = u'Linkit'
-LINKS = (('Tommin kotisivu', 'http://tommi.saltio.la'),
-         ('Sivuston toteutti Saltiola Code', 'http://saltio.la'),
-         )
+LINKS = (('Facebook', 'https://www.facebook.com/autiohemp/'),
+         ('Twitter', 'https://twitter.com/autiohemp'),)
 
 NEST_HEADER_IMAGES = "background.jpg"
 
@@ -42,10 +41,10 @@ GUIDES_CATEGORY_SUBTITLE = "Miten käyttää hampunsiemeniä?"
 # Social widget
 NEST_SOCIAL_COLUMN_TITLE = u'Yhteystiedot'
 SOCIAL = (
+    ('Tommi Saltiola', 'http://tommi.saltio.la'),
     ('Puh. +358407479512', 'tel:+358407479512'),
     ('info@autiohemp.com', 'mailto:info@autiohemp.com'),
-    ('Aution Hampputila Facebookissa', 'https://www.facebook.com/Aution-Hampputila-880717715368664/'),
-    ('@autiohemp Twitterissä', 'https://twitter.com/autiohemp'))
+)
 
 DEFAULT_PAGINATION = 5
 

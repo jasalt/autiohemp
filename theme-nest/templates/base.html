@@ -129,7 +129,7 @@
                     {% endfor %}
                     {% endif %}
 
-                    <a {% if page_name == "category/ohjeet" %} class="active"{% endif %} href="{{ SITEURL }}/category/articles.html">Blogi</a>
+                    <a {% if page_name == "category/articles" %} class="active"{% endif %} href="{{ SITEURL }}/category/articles.html">Blogi</a>
                 </div>
             </div>
         </div>
@@ -178,6 +178,8 @@
                             <small><em>© Aution Tila 2016</em></small><br/>
                             <small>Y-Tunnus: 1162273-7</small><br/>
                             <small>{{ NEST_COPYRIGHT }}</small>
+                            <small>Site by <em><a href="http://saltio.la">Jarkko Saltiola</a></em></small>
+                            
                             {% if NEST_FOOTER_HTML %}<small><em>{{ NEST_FOOTER_HTML }}</em></small>{% endif %}
                         </p>
                     </div>
