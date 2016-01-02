@@ -1,5 +1,5 @@
 Title: Haastattelu Korpilahti-lehdessä 2015
-Date: 2016-01-02
+Date: 2015-08-30
 
 [Korpilahti-lehden](http://www.korpilahtilehti.fi/) toimittaja Maarit Nurminen kävi haastattelemassa viljelijä Tommi Saltiolaa loppukesästä 2015.
 

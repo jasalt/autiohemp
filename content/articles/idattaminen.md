@@ -24,4 +24,9 @@ Idätyksessä rasvahappoja hapettumiselta suojeleva E-vitamiini tuplaantuu, jonk
 Paremmalla sulavuudella pienemmässä annoksessa on enemmän ravintoaineita. Jo yhdessä ruokalusikallisessa on 13% päivittäisesta proteiinin ja 40% ravintokuidun tarpeesta, sekä 93,2% omega 3-rasvahapon tarpeesta.
 
 
-(Lähteet: [GerminatedHempEU](http://www.germinatedhemp.eu/secret-of-germination/food-ingredients-from-germinated-hemp-seeds), [Hamppumaa](http://www.hamppumaa.fi/), [Wikipedia E-vitamiini](https://fi.wikipedia.org/wiki/E-vitamiini), [Lihastohtori](https://lihastohtori.wordpress.com/2013/04/11/ravinnon-ajoitus/))
+## Lähteet:
+
+* [GerminatedHempEU](http://www.germinatedhemp.eu/secret-of-germination/food-ingredients-from-germinated-hemp-seeds)
+* [Hamppumaa](http://www.hamppumaa.fi/)
+* [Wikipedia: E-vitamiini](https://fi.wikipedia.org/wiki/E-vitamiini)
+* [Lihastohtori](https://lihastohtori.wordpress.com/2013/04/11/ravinnon-ajoitus/)
