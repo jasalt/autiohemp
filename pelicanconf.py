@@ -60,3 +60,6 @@ EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/logo.svg': {'path': 'logo.svg'}
 }
+
+DISQUS_SITENAME = 'autiohemp'
+GOOGLE_ANALYTICS = 'UA-54689999-7'
