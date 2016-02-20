@@ -43,6 +43,14 @@
     </head>
 
     <body>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) return;
+             js = d.createElement(s); js.id = id;
+             js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=781570441971687";
+             fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));</script>
 
         <!-- Header -->
     <div class="header-container" style="background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('http://autiohemp.com/images/background.jpg'); background-position: center; ">
@@ -108,11 +116,13 @@
                         </ul>
                     </div>
                     <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
+                        
                         <div class="footer-title">Linkit</div>
                         <ul class="list-unstyled">
                             <li><a href="https://www.facebook.com/autiohemp/" target="_blank">Facebook</a></li>
                             <li><a href="https://twitter.com/autiohemp" target="_blank">Twitter</a></li>
                         </ul>
+                          <div class="fb-like" data-href="https://www.facebook.com/autiohemp/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
                     </div>
                     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                         <p class="pull-right text-right">
