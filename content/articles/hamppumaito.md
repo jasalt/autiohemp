@@ -1,7 +1,7 @@
 Title: Hamppumaito
 Date: 2016-02-20
 Tags: juoma, maito
-<!-- Image: images/guides/hemp-milk.jpeg -->
+Image: images/guides/hamppumaito.jpg
 
 Hamppumaito on helppo ja optimaalinen tapa lisätä proteiinia ja rasvahappoja ruokavalioon. Vaihtoehtoiset maidot ovatkin yksi markettien nopeiten kasvavista kategorioista. Erilaisia maitojen myyntimäärä on noussut yhdessä vuodessa 24% [^2].
 
@@ -28,11 +28,11 @@ Love Treen maitosuodatinpussi on kestävä ja pitkäikäinen. Kääntämällä p
 
 Hamppumaito sisältää hampunsiemenen valkuaisen ravintosisällön, eli proteiinit ja rasvat juotavassa muodossa.
 Hamppumaidossa on pähkinäisen viljava maku ja runsaasti helposti sulavia ravinteita, sisältäen kaikki välttämättömättömät aminohapot ja omega rasvahapot optimaalisessa suhteessa, sekä runsaasti mineraaleja ja vitamiineja[^4].
-kuten kalsiumia, kaliumia, potassiumia, fosforia, riboflaviinia, magnesiumia, fytosteroleja, askorbiinihappoa, foolihappoa, beeta-karoteenia, rautaa, sinkkiä, niasiinia ja tiamiinia, sekä A-, B12-, E- ja D-vitamiinia yms.. [^5][^1]
+kuten kalsiumia, kaliumia, potassiumia, fosforia, riboflaviinia, magnesiumia, fytosteroleja, askorbiinihappoa, foolihappoa, beeta-karoteenia, rautaa, sinkkiä, niasiinia ja tiamiinia, sekä A-, B12-, E- ja D-vitamiinia yms.. [^5] [^1]
 Hamppuproteiini ei sisällä mineraalien imeytyvyyttä häiritsevää fytaatti entsyymi estäjiä, kuten soijaproteiini. Saattaa myös olla sulavamppaa kuin soijaproteiini, koska toisin kuin soijamaito se ei sisällä moniosaisia sokereita, oligosakkarideja, jotka saattavat aiheuttaa ilmavaivoja [^1]. Ei myöskään sisällä sokeria, kolesterolia, eikä gluteenia [^5].
 
 Tekee päivittäisestä välttämättömien rasvahappojen saannista helppoa, sillä lasillisessa hamppumaitoa on suhteesta riippuen jopa 50% päivittäisestä omega-3 suosituksesta, joka on tärkeää aivotoiminnalle, ylläpitäen tervettä verenkiertoelimistöä alentamalla verenpainetta [^2].
-Välttämättömät aminohapot, rasvahappojen optimaalinen suhde, vitamiinien ja hivenaineiden kanssa sisältää runsaasti terveysvaikutuksia. Mm alentaa kolesterolia ja näin verenpainetta alentaen sydän ja verisuonitautien riskiä ollen myös hyväksi nivelille [^3][^5]
+Välttämättömät aminohapot, rasvahappojen optimaalinen suhde, vitamiinien ja hivenaineiden kanssa sisältää runsaasti terveysvaikutuksia. Mm alentaa kolesterolia ja näin verenpainetta alentaen sydän ja verisuonitautien riskiä ollen myös hyväksi nivelille [^3] [^5]
 
 [^1]: [Wikipedia: Hemp milk](http://www.germinatedhemp.eu/secret-of-germination/food-ingredients-from-germinated-hemp-seeds)
 [^2]: [We’re moooving away from cow’s milk - www.goodhempfood.com](http://www.goodhempfood.com/blog/were-moooving-away-from-cows-milk/)
