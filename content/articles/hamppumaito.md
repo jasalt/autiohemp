@@ -21,7 +21,7 @@ Vinkki: Jäljelle jäänyt kuitu voidaan hyödyntää [leivonnassa]({tag}leivont
 
 ## Suodatinpussit
 
-Suodatinpusseja saa tilattua muunmuassa [Ebaystä|(http://www.ebay.co.uk/sch/i.html?_odkw=nut+milk+bag&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR2.TRC1.A0.H0.Xmilk+bag.TRS0&_nkw=milk+bag&_sacat=0) ja [DetoxYourWorldista](http://www.detoxyourworld.com/nut-milk-bag). Kääntämällä pussi sauma sisäänpäin estätä kuidun tunkeutumisen sauman väliin. Jos käytät pussissa värikkäitä ainesosia, on sitä suositeltavaa liottaa 10 min astianpesuaineessa käytön jälkeen.
+Suodatinpusseja saa tilattua muunmuassa [Ebaystä](http://www.ebay.co.uk/sch/i.html?_odkw=nut+milk+bag&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR2.TRC1.A0.H0.Xmilk+bag.TRS0&_nkw=milk+bag&_sacat=0) ja [DetoxYourWorldista](http://www.detoxyourworld.com/nut-milk-bag). Kääntämällä pussi sauma sisäänpäin estätä kuidun tunkeutumisen sauman väliin. Jos käytät pussissa värikkäitä ainesosia, on sitä suositeltavaa liottaa 10 min astianpesuaineessa käytön jälkeen.
 
 ## Ravintosisältö
 
