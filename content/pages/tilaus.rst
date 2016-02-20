@@ -9,17 +9,8 @@ Myynnissä kesän 2015 satoa. Lannoitteena on käytetty maltillisesti mineraalip
 
 .. raw:: html
 
-    <div class="col-md-6"><p>Täyttämällä alla olevan tilauslomakkeen lähetämme maksutiedot sähköpostiinne. Hintaan lisätään 10e toimituskustannus. Siemenet toimitetaan postitse. Toimituskulut sisältyvät hintaan yli 50€ tilauksissa!</p></div>
-    <div class="col-md-6 well well-xs">
-    <p><strong>Tämänhetkinen varastotilanne</strong></p>
-    <div class="progress">
-      <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="490" aria-valuemin="0" aria-valuemax="600" style="width: 80%;">
-        <span class="sr-only">60% Complete</span>
-      </div>
-    </div>
-    <p class="text-right"><strong>490kg</strong> / 600kg</p>
-    </div>
-    
+    <div><p>Täyttämällä alla olevan tilauslomakkeen lähetämme maksutiedot sähköpostiinne. Hintaan lisätään 10e toimituskustannus. Siemenet toimitetaan postitse. Toimituskulut sisältyvät hintaan yli 50€ tilauksissa!</p></div>
+
     <br>
     
 .. raw:: html
