@@ -3,16 +3,23 @@ Date: 2016-02-20
 Tags: juoma, maito
 <!-- Image: images/guides/hemp-milk.jpeg -->
 
+# Hamppumaito
+
 Hamppumaito on helppo ja optimaalinen tapa lisätä proteiinia ja rasvahappoja ruokavalioon. Vaihtoehtoiset maidot ovatkin yksi markettien nopeiten kasvavista kategorioista. Erilaisia maitojen myyntimäärä on noussut yhdessä vuodessa 24% [^2].
 
 ## Ohje
-Tehdäksesi hamppumaitoa tarvitset tehosekoittimen, hampunsiemeniä, suodatinpussin ja vettä. Lisäksi mausteena voi käyttää mm vanilijaa, hunajaa, agave siirappia makeuttajana maun mukaan. Voit lisätä myös ripauksen suolaa.
 
-Siemeniä kannattaa idättää tai vähintään liottaa vedessä yön yli, jolloin niistä irtoaa enemmän maitoa ja ne muuntuvat sulavammiksi. Laita puoli lasia hampunsiemeniä ja kaksi lasia vettä tehosekoittimeen. Kannattaa kokeilla eri määriä mutta tällä suhteella pääsee alkuun. Sekoita noin 30 sekuntia, kunnes hampunsiemenet ovat hienontuneet. Kaada seos suodatinpussiin ja purista neste toiseen astiaan, jolloin kuitu ja maito erottuvat. Maitoon voi lopuksi sekoittaa haluamansa mausteet.
+Tehdäksesi hamppumaitoa tarvitset tehosekoittimen, hampunsiemeniä, suodatinpussin ja vettä. Lisäksi mausteena voi käyttää mm. vanilijaa, hunajaa, agave siirappia maun mukaan. Mukaan voi lisätä myös ripauksen suolaa.
+
+Siemeniä kannattaa [idättää]({filename}/articles/idattaminen.md) tai vähintään liottaa vedessä yön yli. Tällöin niistä irtoaa enemmän maitoa ja ne muuntuvat samalla sulavammiksi.
+
+Laita puoli lasia hampunsiemeniä ja kaksi lasia vettä tehosekoittimeen. Kannattaa kokeilla eri määriä mutta tällä suhteella pääsee alkuun. Sekoita noin 30 sekuntia, kunnes hampunsiemenet ovat hienontuneet. Kaada seos suodatinpussiin ja purista neste toiseen astiaan, jolloin kuitu ja maito erottuvat. Maitoon voi lopuksi sekoittaa haluamansa mausteet.
 
 Maito kannattaa jäähdyttää ja ravistaa ennen käyttöä, sekä juoda viikon kuluessa säilyttäen jääkaapissa, sillä siinä ei ole säilöntäaineita.
 
 Vinkki: Jäljelle jäänyt kuitu voidaan hyödyntää leivonnassa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67S5-2mdjD4" frameborder="0" allowfullscreen></iframe>
 
 ## Suodatinpussit
 
