@@ -18,7 +18,7 @@ Maito kannattaa jäähdyttää ja ravistaa ennen käyttöä, sekä juoda viikon 
 
 ## Suodatinpussit
 
-Suodatinpusseja saa tilattua muunmuassa [Ebaystä](http://www.ebay.co.uk/sch/i.html?_odkw=nut+milk+bag&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR2.TRC1.A0.H0.Xmilk+bag.TRS0&_nkw=milk+bag&_sacat=0) tai [DetoxYourWorldista](http://www.detoxyourworld.com/nut-milk-bag). Kääntämällä pussin sauma sisäänpäin estyy kuidun tunkeutumisen sauman väliin. Mikäli suodatat värikkäitä ainesosia, on pussia suositeltavaa liottaa 10 min astianpesuaineessa käytön jälkeen.
+Suodatinpusseja saa tilattua muunmuassa [Ebaystä](http://www.ebay.co.uk/sch/i.html?_odkw=nut+milk+bag&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR2.TRC1.A0.H0.Xmilk+bag.TRS0&_nkw=milk+bag&_sacat=0) tai [DetoxYourWorldista](http://www.detoxyourworld.com/nut-milk-bag). Kääntämällä pussin sauma sisäänpäin kuidun tunkeutumisen sauman väliin estyy. Mikäli suodatat värikkäitä ainesosia, on pussia hyvä liottaa 10 min astianpesuaineessa käytön jälkeen.
 
 [^1]: [Wikipedia: Hemp milk](https://en.wikipedia.org/wiki/Hemp_milk)
 [^2]: [We’re moooving away from cow’s milk - www.goodhempfood.com](http://www.goodhempfood.com/blog/were-moooving-away-from-cows-milk/)
